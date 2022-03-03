@@ -1,2 +1,3 @@
 Gitの練習をしています
-aiueo
+・git add
+・git commit

@@ -3,3 +3,4 @@ Gitの練習をしています
 ・git commit
 ・git remove
 ・git status
+・git log (--oneline, -p, -n)
